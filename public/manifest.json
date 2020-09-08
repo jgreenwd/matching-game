@@ -1,0 +1,15 @@
+{
+  "short_name": "Memory",
+  "name": "Memory Matching Game",
+  "icons": [
+    {
+      "src": "logo75-orange.png",
+      "type": "image/png",
+      "sizes": "75x75"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
