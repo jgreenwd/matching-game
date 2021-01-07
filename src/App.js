@@ -5,7 +5,7 @@ function App() {
     // tile characters
     const icons = ['∀','∀','∃','∃','∈','∈','∧','∧','∨','∨','∩','∩','∪','∪','⊕','⊕'];
 
-    return <MemoryBoard style={{textAlign: 'center'}} icons={icons}/>
+    return <MemoryBoard icons={icons}/>
 }
 
 export default App;

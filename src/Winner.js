@@ -9,7 +9,7 @@ function Winner(props) {
         height: '362px',
         lineHeight: '362px',
         margin: '16px 22px',
-        position: 'fixed',
+        position: 'absolute',
         visibility: props.isDisplayed ? null : 'hidden',
         width: '362px',
         zIndex: 1,
